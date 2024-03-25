@@ -1,0 +1,7 @@
+B, root
+D, B
+T, B
+N, D
+R, D
+S, N
+K, N
